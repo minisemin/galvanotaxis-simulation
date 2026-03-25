@@ -5,9 +5,7 @@ y=0 (visualized as the red line on the bottom of the plot) represents zebrafish 
 ## Current Output
 Simulation output is in matplotlib plot format, and saved as animated mp4.
 
-<video width="620" height="340" controls>
-  <source src="galvanotaxis_simulation_20260325.mp4" type="video/mp4">
-</video>
+![Watch the MP4 demo](./galvanotaxis_simulation_20260325.gif)
 
 ## Calculations
 See `Calculations.md` for detailed calculations
